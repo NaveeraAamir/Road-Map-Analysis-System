@@ -1,0 +1,9 @@
+Faisalabad,Lahore
+Faisalabad,Multan
+Gwadar,Karachi
+Gwadar,Quetta
+Islamabad,Lahore
+Islamabad,Peshawar
+Karachi,Sukkur
+Karachi,Multan
+Quetta,Sukkur

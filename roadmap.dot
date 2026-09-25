@@ -1,0 +1,14 @@
+graph RoadNetwork {
+    node [style=filled, fillcolor=lightblue, fontname="Arial"];
+    edge [color=black, penwidth=6];
+
+    "Faisalabad" -- "Lahore";
+    "Faisalabad" -- "Multan";
+    "Gwadar" -- "Karachi";
+    "Gwadar" -- "Quetta";
+    "Islamabad" -- "Lahore";
+    "Islamabad" -- "Peshawar";
+    "Karachi" -- "Sukkur";
+    "Karachi" -- "Multan";
+    "Quetta" -- "Sukkur";
+}
